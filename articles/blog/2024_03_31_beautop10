@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<head>
+    <!-- put ur important stuff here! or else u will die -->
+    <title>AMESC</title>
+
+    <!-- put ur css stuff here! or else u will die -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="./../../assets/css/styles.css" rel="stylesheet"> <!-- you can edit this css omg-->
+
+    <!-- put ur metadata here! or else u will die -->
+    <meta charset="UTF-8">
+    <meta name="keywords" content="amesc">
+    <meta name="description" content="americasesc">
+    <meta name="author" content="amesc">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <!-- navigation bar code -->
+    
+    <!-- containers push ur content in from the sides :0 -->
+    <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+
+            <!-- this is the website name -->
+            <a class="navbar-brand" href="./../../index.html">AMESC</a>
+
+            <!-- this minimizes ur navbar on mobile and lets u open it again -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- this is a link button -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="./../../index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./../../blog.html">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./../../about.html">About Us</a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <!-- put the dropdown's title here -->
+                    Follow us!
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="https://www.instagram.com/americasesc">Instagram</a></li>
+                    <li><a class="dropdown-item" href="https://www.tumblr.com/americasesc">Tumblr</a></li>
+                    <li><a class="dropdown-item" href="https://x.com/americasesc">Twitter</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="https://youtube.com/@AmericasESC?si=3BaSOSxIi6eALbTS&sub_confirmation=1">YouTube</a></li>
+                    </ul>
+                </li>
+                </ul>
+
+                <!-- they gave us search bar code? nice! -->
+                <!-- <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+                </form> -->
+            </div>
+        </div>
+    </nav>
+
+        <!-- text for your WEBSITE! -->
+        <br>
+        <h1>NAME</h1>
+        <br>
+        by <a href="../about/abt_template.html">AUTHOR</a> - Month Day, Year
+        <br><br>
+
+        <!-- this is a responsive two column layout! -->
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <img src="./../../assets/images/2024_03_31_joost.jpg" alt="joost" style="width:400px;height:400px;"><br><br>
+                <p>-</p>
+<p><span style="font-weight: 400;">Happy pre-party season everyone!</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Who needs Easter when the pre-parties exist, am I right? Even when this year is tense, we can still relax, have fun at these events and take a look at how artists get to know each other and form friendships that can and sometimes will last beyond the last day of the contest itself (totally not being nostalgic towards a certain Slovenia/Finland duo from last year, of course not). The best part of the experience, in my opinion, is to see the fun stuff happen beyond what goes on upstage, and to form bonds that go beyond musical terms.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">I have been invested in Eurovision since 2019, but honestly, it had never occurred to me to make rankings up until last year. In reality, it was because whenever I knew about whatever went down that year, the winner had already been chosen, but I caught 2023 and 2024 just in time to rank my songs before the contest. Today, as a treat to celebrate the beginning of pre-party season, I bring you my two cents on the topic by walking you through my top 10 songs this year, from your local Chile-Argentinian Eurovision girlie.</span></p>
+<p>&nbsp;</p>
+<ol start="10">
+<li><strong> 11:11 - Megara (San Marino)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;I-d-o-n-t-g-i-v-e-a-d-a-m-n, if you don't love me, other people will.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Such an irony to have a song with two elevens in the title to rank tenth, huh?&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">San Marino has never been a fan favorite, and Megara is not the exception this year, being one of the lowest in the odds. But I do think that this band has the power necessary to break through, win hearts and make everyone who ever had doubts about their song and participation shut up and realize they might have made a judgement mistake. 11:11 has a very powerful self-empowering message about letting go of other people's expectations to be authentic and look for the place that highlights your unique self, to never cease to be what you are and find the people who love you. It's a diss track to Benidorm for having closed the doors on their faces after a year of defeat and it does the perfect work. Mirror hours (11:11 being the most common) are used for manifestation and attracting blessings. And I'm sure they'll manifest San Marino qualifying this year.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">As a little fun fact that I haven't seen anyone talk about yet - the call at the beginning of the song is Megara's lead singer, Kenzy Loevett, excitedly telling how Megara got accepted into Una Voce per San Marino (&ldquo;I just got a call from San Marino, dude, we&rsquo;re in, they&rsquo;ve accepted us, they just called to tell us we&rsquo;re in!&rdquo;).</span></p>
+<p>&nbsp;</p>
+<ol start="9">
+<li><strong> Veronika - Raiven (Slovenia)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;I am an infinite mirror, a reflection of your fears.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">It's no secret to anyone who knows me that I've been an avid Joker Out fan since last year. When I found out Bojan would be involved in the making of this song, I couldn't be more excited for its release. And when it came out, I swear my soul left my body.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The legend of Veronika of Desenice and her tragic ending sets the perfect background for the song. After being hunted down by the family of her husband, who didn&rsquo;t like her, and after being brought forth to a judge, who ultimately told them that her only crime was to love and to be brought back to him, Veronika gets drowned in a tub, her spirit left to wander the castle she was killed in, forever longing for her beloved one. Raiven's voice is versatile and bewitching, like a water nymph seeking to lure men to drown them, like an evil version of Veronika who looks for revenge for what's been done to her. The visuals of the music video are amazing, sublime and solemn. This woman has everything she needs to crush the televote on her semifinal and bring Veronika back to life. Everytime I hear this song, I get goosebumps.</span></p>
+<p>&nbsp;</p>
+<ol start="8">
+<li><strong> We Will Rave - Kaleen (Austria)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;When the darkness hits and we can't be saved, we ram-di-dam-dam-da, we will rave.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">I grew up listening to Techno songs. Groove Coverage, Cascada, Scooter, you name it. I was a kid who loved Nightcore versions of songs and it became a quintessential part of who I am now as an adult. With this context in mind, Kaleen being on my top ten is a no brainer. She represents that part of my childhood that's still alive and beating in the 26-year-old me who loves all things Techno and EDM.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Austria has great songs, but they never make it too far - I'm still mourning Lum!x and Pia Maria's Halo, which had great potential but fell short, and the poor result of last year&rsquo;s Who The Hell is Edgar, that had everything it needed to place top ten but ultimately failed to do so. This year, though, I am very hopeful. Kaleen has everything she needs to win: A great voice with good balance, perfect stage presence, and dancing skills. This song hits just right in all the perfect spots for me, and I cannot wait to see this wonderful woman kill it in Malm&ouml;.&nbsp;</span></p>
+<p>&nbsp;</p>
+<ol start="7">
+<li><strong> Luktelk - Silvester Belt (Lithuania)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;Am I still alive? Do you still recognize me?&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">I remember the first time I listened to Luktelk so clearly.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">That day, I had gone home from a soccer match, which also coincided with the Eesti Laul and Eurovizija.LT finals. Our team had won after a long streak of ties and defeats, and my winners of each final had won the chance to go to Eurovision. I had listened to Luktelk snippets before, but never fully. And once I did it on the car ride back home, I realized I couldn't let it go. It was injected into my bloodstream. I even made a Spanish cover for it.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Lithuania never ceases to send icons, such as the beautiful Monika Liu who captivated all of our hearts with Sentimentai. Silvester Belt is completely fit for this category. His energy is unmatched, and the delicate delivery of vocals make for a delightful, yet melancholic song. It draws you in and promises not to let you go. I describe it as a breeze that surrounds you and guides you in a cold evening, guiding you towards a warm place, or like swimming in the deep sea, illuminated by jellyfish and the cold moonlight on the surface. It&rsquo;s pure magic, and the charisma Silvester has shown thanks to his warm personality can easily bring him to be a fan favorite this season.&nbsp;</span></p>
+<p>&nbsp;</p>
+<ol start="6">
+<li><strong> Teresa &amp; Maria - Alyona Alyona &amp; Jerry Heil</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;With us, Mama Teresa and Diva Maria, barefoot, as if on blades, they walked on the ground.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Religious themes are always one of my favorite things in any art medium. Paintings, music, literature... Which is also quite ironic, considering I was raised by an agnostic father and I'm pretty much the same as him. I might not practice nor believe much, but does the topic fascinate me.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This song has everything. The delicacy and solemnity of the first section, and the chord that's written in gives me that exact aura that I would expect of a sacred song, not to mention the dimensions that Jerry Heil's voice provides on its own, with so many aspects that make you stop and listen. Then comes the chorus, with the perfect amount of emotion. But what I really enjoyed the most was the rap. Ukrainian must not be an easy language to deliver a rap in, but Alyona Alyona executes it flawlessly, with the last chorus being a perfect drop, like diving into the sea after feeling the breeze at the edge of the cliff. This song is beautiful. Ukraine never ceases to send divine songs, and I really look forward to seeing how the staging will upgrade what is already a masterpiece.</span></p>
+<p>&nbsp;</p>
+<ol start="5">
+<li><strong> No Rules! - Windows95man (Finland)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;If I'm not alright, tell me why do I feel so beautiful tonight?&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">My father used to have a Windows 95 computer when I was a kid, back in the early 2000s. As a kid, I remember walking to my dad and sitting on his lap while I watched him play Monkey Island, which is still my favorite game ever.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Maybe that's the reason why when I saw the UMK contestants this year, I immediately listened to Windows95man's song. And one listen was enough for me to decide that I wanted it to go to Malm&ouml;. Many people don't like this song or find it &ldquo;not proper&rdquo; for this contest. I love unique entries, and Finland never ceases to provide them. The nostalgic synths with a 90's beat and the Windows-like sound effects throughout the song, paired with Henri Piispanen's voice (I have to really praise the high note in the chorus, because it's very well executed both live and in the recorded version) and the fun staging that made for an unforgettable performance, it's everything I love. Couldn't have chosen a best successor for K&auml;&auml;rij&auml;.</span></p>
+<p>&nbsp;</p>
+<ol start="4">
+<li><strong> Nendest (narkootikumidest) ei tea me (k&uuml;ll) midagi - 5miinust x Puulup (Estonia)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;I don't know drugs, just soda and cider, I couldn't tell vitamin and speed apart.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Say no to drugs and yes to talharpa, children.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The first thing that drew me into this song was the absurdly long title, but I stayed for the musical content. Lyrically, this song goes over the stigmatization of drug usage, which is a big problem nowadays, and when you listen to songs, you feel like it was made on drugs, but in a good way. It takes you for a hell of a trip. I had never heard a talharpa before and it was the best addition. I love Marko Veisson's bass voice, it brings out a lot of flavor to the table, and it balances out the other voices perfectly. A big fan favorite in Eesti Laul and widely acclaimed in other countries, Estonia has everything to make it to the top 10 again. I can't wait for them to get there.</span></p>
+<p>&nbsp;</p>
+<ol start="3">
+<li><strong> The Tower - Luna (Poland)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;I'm the one who built the tower, I'm the one who holds the power.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Did you know that a tower moment is a period of sudden change after a big shift in your life?</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Poland's entry last year didn't do very well, and it became an iconic meme, but I do believe that this song's title is not a coincidence, and that Luna has brought her country her tower moment. Her wispy voice makes the song sound magical, and she does look like a magical person. The music video had such an amazing and bewitching energy, one could simply not stop watching. With beautiful lyrics about regaining your own power and building your own tower to rise from the ground, to have your own tower moment and shine, I think Luna can bring Poland a better result than last year, and become one of the biggest icons this year.</span></p>
+<p>&nbsp;</p>
+<ol start="2">
+<li><strong> The Code - Nemo&nbsp; (Switzerland)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;I've went to hell and back to find myself on track.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">As a person within the nonbinary spectrum, this song holds a special meaning. But beyond it, I know what it is that makes me feel so drawn to this song, so much that I've even created a story thanks to it - the multiplicity of styles merged so seamlessly.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Nemo has a beautiful voice. Their control of high notes and how swiftly they go from rapping to belting out notes is amazing to me, as a professionally trained soprano. It's an epic song, with orchestral, drum and bass and opera elements that don't overlap each other, on the contrary, it makes up for a beautiful scenery one wants to be a part of. After having listened to this song so many times, I can only say that Nemo has everything they need to make it to top five and become one of the biggest favorites to win at the Grand Final. Their talent, their energy, their creativity, it's unmatched and I'm sure the staging will be up to standard and enhance what is already a masterpiece.</span></p>
+<p>&nbsp;</p>
+<ol>
+<li><strong> Europapa - Joost (Netherlands)</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">&ldquo;Welcome to Europe, where I'll stay until I die.&rdquo;</span></em></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">I didn't even have to listen to Europapa when I decided Joost was my winner.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The day it got released, I remember having gone to the supermarket to buy groceries, and in the hour and a half it took me, I looped the song as many times as I could. I was so right with my choice. I already liked Joost because of his energy, which reminded me a whole lot of K&auml;&auml;rij&auml;, my winner last year, and this song just finished to establish what I already knew. Joost moves crowds in every concert he has, and this song took Europe by storm. The frantic energy of the song, which also has the Techno elements I so much love, the whimsical music video, and&nbsp; of course, the emotional charge of the true meaning of this song, it's the perfect mixture for a Eurovision winner. This anthem for Europe's stray children, written by a stray child that had to grow up too fast (Joost lost his parents at 12 and 13 years old, first his father due to cancer, then next year his mother died from cardiac arrest and he got home to find her already deceased), who tries to heal his wounds by traveling, who smiles and has a great sense of humor despite having gone through the darkest storms, is my winner this year. I trust Joost to make it very far.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">For him, for his parents and for every child in Europe who is looking for their place in the world.</span></p>
+            </div>
+            <div class="col-12 col-lg-4">
+
+                <!-- example card for u and ur team :0 -->
+                <div class="card">
+                    <img src="./../../assets/images/logo.png" class="card-img-top" alt="AMESC Logo">
+                    <div class="card-body">
+                        <h5 class="card-title">Who Are We?</h5>
+                        <p class="card-text">We're a group of Eurovision fans from the Americas, passionate about connecting European music to our local communities. Our team is made of content creators, translators, media editors, and more!</p>
+                        <a href="https://github.com/sunyshore" class="btn btn-primary">Join Us!</a>
+                    </div>
+                </div>
+                <br>
+
+                <!-- u can put links in the sidebar! -->
+                <!-- <ul class="list-group">
+                    <li class="list-group-item"><a href="https://youtu.be/p_qmuAvunGM">ti amo</a></li>
+                    <li class="list-group-item"><a href="https://youtu.be/_jELIJEumK4?t=58">conradiana</a></li>
+                    <li class="list-group-item"><a href="https://www.youtube.com/watch?v=PGfHGb6PnRA">daylight come</a></li>
+                </ul>
+                <br>
+                
+                More content -->
+            </div>
+        </div>
+    </div>
+
+    <!-- this is bootstrap's JAVASCRIPT -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- u can include custom JAVASCRIPT here -->
+    <script src="./assets/js/scripts.js"></script>
+</body>
